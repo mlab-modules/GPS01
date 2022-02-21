@@ -4,7 +4,7 @@
 # GPS01B
 <!--- Emodule --->
 
-<!--- subtitle --->GPS receiver<!--- Esubtitle --->
+<!--- subtitle --->uBlox NEO based GNSS receiver with external antenna input<!--- Esubtitle --->
 
 ![GPS01B](/doc/img/GPS01B_top_big.jpg)
 
