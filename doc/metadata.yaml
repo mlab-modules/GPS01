@@ -8,9 +8,9 @@ github_url: https://github.com/mlab-modules/GPS01
 homepage: false
 image: doc/img/GPS01B_EEPROM02A.jpg
 images:
+- doc/img/GPS01B_top_big.jpg
 - doc/img/GPS01B_EEPROM02A.jpg
 - doc/img/GPS01B_top_small.jpg
-- doc/img/GPS01B_top_big.jpg
 - doc/img/GPS01B_QRcode.png
 issues: 0
 mark: 50
