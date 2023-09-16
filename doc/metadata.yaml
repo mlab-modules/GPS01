@@ -6,7 +6,7 @@ github_branches:
 github_repo: GPS01
 github_url: https://github.com/mlab-modules/GPS01
 homepage: false
-image: doc/img/GPS01B_EEPROM02A.jpg
+image_title: doc/img/GPS01B_EEPROM02A.jpg
 images:
 - doc/img/GPS01B_EEPROM02A.jpg
 - doc/img/GPS01B_top_big.jpg
