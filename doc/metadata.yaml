@@ -14,7 +14,7 @@ images:
 - doc/img/GPS01B_QRcode.png
 issues: 0
 mark: 50
-status: 0
+status: 3
 tags:
 - gps
 - gps-location
